@@ -2,4 +2,4 @@
 
 # Socials
 
-https://twitter.com/KeyringHardhat
+[📣 Twitter](https://twitter.com/KeyringHardhat)

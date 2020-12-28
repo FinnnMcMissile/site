@@ -17,14 +17,17 @@ Working with Technical Architects, managing expectation with key stakeholders ar
 ##### Security Watchdog
 #### JUNE 2017 ⏩ FEBUARY 2019
 >I had been chosen to undertake this role due to my interpersonal connection skills, along with my proficiency within our own IT function. I had been chosen from a team of 12 to provide on-site support and to bridge a connection between our Operation and IT team. I have many responsibilities here, including Reviewing internet usage and reporting findings to key stakeholders, Developing and producing support documentation for the company to utilise and to provide application support for prime-time applications, both internally and to clients by collaborating with developers to provide timely resolutions.
+
 #### Transformation SME
 ##### Security Watchdog
 #### JANUARY 2017 ⏩ JUNE 2017
 >This role focuses heavily on a project delivery style in the life cycle of an IT project. Alongside the basic building and testing of various components, there is a large element of problem solving both in the sense of bugs where features are newly created as well as creative ways to amend the process to fit the system (or amend the system to fit the process).
+
 #### Client Liaison Officer
 ##### Security Watchdog
 #### OCTOBER 2015 ⏩ JANUARY 2017
 >I carried out employment screening as an operative of the Security Watchdog. I work in an office environment with a heavy focus on information gathering by phone, email, fax and web search. It involves contact with both candidates from the public and clients daily, carrying out some key checks such as verifying the legitimacy of ID documentation and verifying criminality documentation to ensure that only the best candidates receive the position on offer.
+
 #### Work Experience
 >During my final year at secondary school I proactively sought out a work experience position at Motorola. This placement was invaluable in teaching me the importance of working to strict deadlines, as the products we were testing had to be ready before the planned release date. I found this extremely rewarding and continue to reflect and use the skills I developed during this time.
 

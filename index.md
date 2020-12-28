@@ -11,6 +11,7 @@ Working with Technical Architects, managing expectation with key stakeholders ar
 ##### Security Watchdog
 #### FEBUARY 2019 ⏩ PRESENT
 > With our department undergoing some change, with a new IT Director, I had shown in a short amount of time that I had extensive knowledge of our Cloud infrastructure, InfoSec policies as well as current and future projects. I had been asked to take this new role that would put me into a more senior position within the IT team. In this time, I have changed our approach to Cloud security with the implementation of tools like Azure Sentinel, Headed up a migration of telephony systems for our operational floors, worked closely with Microsoft to control and resolve business critical issues as well as supporting the Infosec teams with their queries and supporting delivery of change under a controlled process.
+
 ## What i did.
 #### Application Support Officer
 ##### Security Watchdog
@@ -26,6 +27,7 @@ Working with Technical Architects, managing expectation with key stakeholders ar
 >I carried out employment screening as an operative of the Security Watchdog. I work in an office environment with a heavy focus on information gathering by phone, email, fax and web search. It involves contact with both candidates from the public and clients daily, carrying out some key checks such as verifying the legitimacy of ID documentation and verifying criminality documentation to ensure that only the best candidates receive the position on offer.
 #### Work Experience
 >During my final year at secondary school I proactively sought out a work experience position at Motorola. This placement was invaluable in teaching me the importance of working to strict deadlines, as the products we were testing had to be ready before the planned release date. I found this extremely rewarding and continue to reflect and use the skills I developed during this time.
+
 ## Skills and abilities. 
 * Highly computer literate, having extended knowledge of Office applications, Office365, Dynamics, 
 * PowerBI and many other applications, in creative and productive categories.

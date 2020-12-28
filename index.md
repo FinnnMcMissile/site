@@ -40,6 +40,7 @@ Working with Technical Architects, managing expectation with key stakeholders ar
 * Proficient in SQL queries (Basic mathematical and string commands as well as queries and modification commands).
 * Completing maintenance tasks requested by clients for maintenance, failures etc.
 * Reporting sophisticated issues to project teams and developers, helping to coordinate delivery of bug fixes to mission-critical systems.
+
 ### Socials.
 [📣 Twitter](https://twitter.com/KeyringHardhat)
 

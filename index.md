@@ -1,4 +1,3 @@
-# Welcome to my GitHub Page 🤠
 ## About me.
 
 I've been working at Security Watchdog since January 2017, providing triage and support to internal and external clients, deploying updates to our web apps, working on projects and being heavily involved in the change control space. 

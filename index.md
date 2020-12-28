@@ -22,5 +22,7 @@ Working with Technical Architects, managing expectation with key stakeholders ar
 ### Socials.
 
 [📣 Twitter](https://twitter.com/KeyringHardhat)
+
 [✉ Email](mailto:khdd@icloud.com)
+
 [📸 Instagram](https://www.instagram.com/keyringhardhat/)

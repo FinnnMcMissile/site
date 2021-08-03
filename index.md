@@ -49,6 +49,10 @@ My role now consists of managing a Digital Services Platform for multiple busine
 * Completing maintenance tasks requested by clients for maintenance, failures etc.
 * Reporting sophisticated issues to project teams and developers, helping to coordinate delivery of bug fixes to mission-critical systems.
 
+### Downloadable Version (Updated 03/08/2021)
+
+[📄 PDF](https://github.com/KeyringHardhat/CV/blob/gh-pages/CV%20-%20Kieron%20Harding.pdf)
+
 ### Socials.
 [📣 Twitter](https://twitter.com/KeyringHardhat)
 

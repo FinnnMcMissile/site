@@ -51,7 +51,7 @@ My role now consists of managing a Digital Services Platform for multiple busine
 
 ### Downloadable Version (Updated 03/08/2021)
 
-[📄 PDF](https://github.com/KeyringHardhat/CV/blob/gh-pages/CV%20-%20Kieron%20Harding.pdf)
+[📄 PDF](https://github.com/KeyringHardhat/CV/raw/gh-pages/CV%20-%20Kieron%20Harding.pdf)
 
 ### Socials.
 [📣 Twitter](https://twitter.com/KeyringHardhat)

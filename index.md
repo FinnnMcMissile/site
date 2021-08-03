@@ -10,7 +10,7 @@ My role now consists of managing a Digital Services Platform for multiple busine
 
 ## What i do.
 #### DevOps Engineer
-##### Capita
+##### Security Watchdog
 #### NOVEMBER 2020 ⏩ PRESENT
 > With my learning of our new products launching growing in my previous role, an opportunity was given to take a DevOps Engineer role in Capita.  My main role is to be responsible for supporting, implementing, and monitoring the infrastructure on our Digital Services Platform. Working with Terraform, Kubernetes, Azure and Gitlab to deliver a 24x7x365 service with an emphasis on security and frictionless delivery to enable our product teams to launch their applications on the platform. 
 

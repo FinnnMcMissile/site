@@ -6,11 +6,11 @@ I have experience with Azure, Office Admin tools, Linux VMs, SQL databases and a
 
 Working with Technical Architects, managing expectation with key stakeholders are all part of this broad role that I have been performing.
 
-My role now consists of managing a Digital Services Platform for multiple businesses within the Capita group, ensuring that the single platform is kept running, secure and stable for the ever expanding throughput that the businesses drive into it. 
+My role now consists of managing a Digital Services Platform for multiple businesses within Matrix Security Watchdog, ensuring that the single platform is kept running, secure and stable for the ever expanding throughput that the businesses drive into it. 
 
 ## What i do.
 #### DevOps Engineer
-##### Security Watchdog
+##### Matrix Security Watchdog
 #### NOVEMBER 2020 ⏩ PRESENT
 > With my learning of our new products launching growing in my previous role, an opportunity was given to take a DevOps Engineer role in Capita.  My main role is to be responsible for supporting, implementing, and monitoring the infrastructure on our Digital Services Platform. Working with Terraform, Kubernetes, Azure and Gitlab to deliver a 24x7x365 service with an emphasis on security and frictionless delivery to enable our product teams to launch their applications on the platform. 
 
@@ -51,10 +51,8 @@ My role now consists of managing a Digital Services Platform for multiple busine
 
 ### Downloadable Version (Updated 03/08/2021)
 
-[📄 PDF](https://github.com/KeyringHardhat/CV/raw/gh-pages/CV%20-%20Kieron%20Harding.pdf)
-
 ### Socials.
-[📣 Twitter](https://twitter.com/KeyringHardhat)
+[👔 LinkedIn](https://www.linkedin.com/in/kieron-harding-32bb23109/)
 
 [✉ Email](mailto:khdd@icloud.com)
 

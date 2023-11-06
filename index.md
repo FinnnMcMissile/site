@@ -49,8 +49,6 @@ My role now consists of managing a Digital Services Platform for multiple busine
 * Completing maintenance tasks requested by clients for maintenance, failures etc.
 * Reporting sophisticated issues to project teams and developers, helping to coordinate delivery of bug fixes to mission-critical systems.
 
-### Downloadable Version (Updated 03/08/2021)
-
 ### Socials.
 [👔 LinkedIn](https://www.linkedin.com/in/kieron-harding-32bb23109/)
 

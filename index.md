@@ -43,14 +43,13 @@ In my current role as a Senior DevOps Engineer, I lead the efforts to ensure the
 >During my final year at secondary school I proactively sought out a work experience position at Motorola. This placement was invaluable in teaching me the importance of working to strict deadlines, as the products we were testing had to be ready before the planned release date. I found this extremely rewarding and continue to reflect and use the skills I developed during this time.
 
 ## Skills and abilities. 
-* Highly computer literate, having extended knowledge of Office applications, Office365, Dynamics, 
-* PowerBI and many other applications, in creative and productive categories.
-* Proficient in JS, VB, Pascal, HTML5 and CSS3.
-* Working in Azure, Monitoring web apps and their components, and talking to Development teams.
-* Working with an Operation as well as Directors to achieve goals set to SLA timeframes.
-* Proficient in SQL queries (Basic mathematical and string commands as well as queries and modification commands).
-* Completing maintenance tasks requested by clients for maintenance, failures etc.
-* Reporting sophisticated issues to project teams and developers, helping to coordinate delivery of bug fixes to mission-critical systems.
+* Advanced Technical Proficiency: Highly computer literate with extensive knowledge of Office applications, Office365, Dynamics, PowerBI, and various other productivity and creative tools.
+* Programming Skills: Proficient in JavaScript, VB, HTML5, and CSS3, with a strong foundation in coding for automation, infrastructure as code, and application development.
+* Cloud Infrastructure Management: Extensive experience working with Azure, including monitoring web apps, managing Linux VMs, and optimizing cloud infrastructure for performance, security, and scalability.
+* DevOps Expertise: Skilled in Terraform, Kubernetes, Gitlab, and CI/CD pipelines, with a focus on automating deployments, maintaining 24x7x365 uptime, and driving continuous improvement in infrastructure and processes.
+* Collaboration and Leadership: Experienced in working closely with Development teams, Operations, and Directors to achieve business goals within SLA timeframes. Currently leading initiatives as a Senior DevOps Engineer, mentoring junior engineers, and coordinating efforts with cross-functional teams.
+* SQL Proficiency: Competent in writing SQL queries, including basic mathematical and string commands, query optimization, and database modifications to support application performance.
+* Incident Management and Reporting: Proficient in handling maintenance tasks, responding to infrastructure failures, and reporting complex issues to project teams and developers. Skilled in coordinating the delivery of bug fixes and improvements to mission-critical systems.
 
 ### Socials.
 [👔 LinkedIn](https://www.linkedin.com/in/kieron-harding-32bb23109/)

@@ -1,12 +1,8 @@
 ## About me.
 
-I've been working at Security Watchdog since January 2017, providing triage and support to internal and external clients, deploying updates to our web apps, working on projects and being heavily involved in the change control space. 
+I’ve been with Security Watchdog since January 2017, where I initially provided triage and support to internal and external clients, deployed updates to our web apps, and played a key role in the change control process. Over time, my role evolved into managing and optimizing our Core Platform, which supports multiple businesses within Matrix Security Watchdog. My experience spans across Azure, Linux VMs, SQL databases, and a wide array of other tools and services crucial to maintaining a secure, stable, and high-performing infrastructure.
 
-I have experience with Azure, Office Admin tools, Linux VMs, SQL databases and a plethora of other services that allow me to perform my role here. I am used to working in a fast-paced environment that requires deadlines to be smashed and work to be right first time, every time. 
-
-Working with Technical Architects, managing expectation with key stakeholders are all part of this broad role that I have been performing.
-
-My role now consists of managing a Digital Services Platform for multiple businesses within Matrix Security Watchdog, ensuring that the single platform is kept running, secure and stable for the ever expanding throughput that the businesses drive into it. 
+In my current role as a Senior DevOps Engineer, I lead the efforts to ensure the platform is not only operational 24x7x365 but also continuously improving to meet the demands of our growing businesses. I work closely with Technical Architects, manage expectations with key stakeholders, and mentor junior engineers, all while driving automation, enhancing security, and ensuring that our systems scale seamlessly to handle increasing throughput.
 
 ## What i do.
 

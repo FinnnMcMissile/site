@@ -9,10 +9,17 @@ Working with Technical Architects, managing expectation with key stakeholders ar
 My role now consists of managing a Digital Services Platform for multiple businesses within Matrix Security Watchdog, ensuring that the single platform is kept running, secure and stable for the ever expanding throughput that the businesses drive into it. 
 
 ## What i do.
+
+#### Senior DevOps Engineer
+##### Matrix Security Watchdog
+#### MARCH 2024 ⏩ PRESENT
+> In recognition of my growing expertise and leadership within the DevOps domain, I advanced to the role of Senior DevOps Engineer at Matrix Security Watchdog. In this role, I lead the design, implementation, and optimization of our infrastructure on the Core Platform. I oversee critical initiatives, ensuring the robustness, security, and scalability of our systems. My responsibilities include mentoring junior engineers, driving continuous improvement in our CI/CD processes, and collaborating with cross-functional teams to deliver a reliable 24x7x365 service. I continue to work extensively with Terraform, Kubernetes, Azure, and Gitlab, with a focus on enhancing automation, security, and operational excellence across the platform. 
+
+
 #### DevOps Engineer
 ##### Matrix Security Watchdog
-#### NOVEMBER 2020 ⏩ PRESENT
-> With my learning of our new products launching growing in my previous role, an opportunity was given to take a DevOps Engineer role in Capita.  My main role is to be responsible for supporting, implementing, and monitoring the infrastructure on our Digital Services Platform. Working with Terraform, Kubernetes, Azure and Gitlab to deliver a 24x7x365 service with an emphasis on security and frictionless delivery to enable our product teams to launch their applications on the platform. 
+#### NOVEMBER 2020 ⏩ MARCH 2024
+> With my learning of our new products launching growing in my previous role, an opportunity was given to take a DevOps Engineer role in Security Watchdog.  My main role is to be responsible for supporting, implementing, and monitoring the infrastructure on our Core Platform. Working with Terraform, Kubernetes, Azure and Gitlab to deliver a 24x7x365 service with an emphasis on security and frictionless delivery to enable our product teams to launch their applications on the platform. 
 
 ## What i did.
 

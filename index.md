@@ -1,22 +1,22 @@
 ## About me.
 
-I’ve been with Security Watchdog since January 2017, where I initially provided triage and support to internal and external clients, deployed updates to our web apps, and played a key role in the change control process. Over time, my role evolved into managing and optimizing our Core Platform, which supports multiple businesses within Matrix Security Watchdog. My experience spans across Azure, Linux VMs, SQL databases, and a wide array of other tools and services crucial to maintaining a secure, stable, and high-performing infrastructure.
+I’ve been with Security Watchdog since January 2017, where I had initially provided triage and support to internal and external clients, deployed updates to our web apps, and played a key role in the change control process. Over time, my role evolved into managing and optimizing our Core Platform, which supports multiple businesses within Matrix Security Watchdog. My experience spans across Azure, Linux VMs, SQL databases, and a wide array of other tools and services crucial to maintaining a secure, stable, and high-performing infrastructure.
 
-In my current role as a Senior DevOps Engineer, I lead the efforts to ensure the platform is not only operational 24x7x365 but also continuously improving to meet the demands of our growing businesses. I work closely with Technical Architects, manage expectations with key stakeholders, and mentor junior engineers, all while driving automation, enhancing security, and ensuring that our systems scale seamlessly to handle increasing throughput.
+In my current role as a Senior DevOps Engineer, I lead efforts to ensure the platform is not only operational 24x7x365 but also continuously improving to meet the demands of our growing businesses. I work closely with Technical Architects, manage expectations with key stakeholders, and mentoring junior engineers. All while driving automation, enhancing security, and ensuring that our systems scale seamlessly to handle increasing throughput.
 
 ## What i do.
 
 #### Senior DevOps Engineer
 ##### Matrix Security Watchdog
 #### MARCH 2024 ⏩ PRESENT
-> In recognition of my growing expertise and leadership within the DevOps domain, I advanced to the role of Senior DevOps Engineer at Matrix Security Watchdog. In this role, I lead the design, implementation, and optimization of our infrastructure on the Core Platform. I oversee critical initiatives, ensuring the robustness, security, and scalability of our systems. My responsibilities include mentoring junior engineers, driving continuous improvement in our CI/CD processes, and collaborating with cross-functional teams to deliver a reliable 24x7x365 service. I continue to work extensively with Terraform, Kubernetes, Azure, and Gitlab, with a focus on enhancing automation, security, and operational excellence across the platform. 
+> In recognition of my growing technical skills and leadership in the DevOps domain, I moved to the role of Senior DevOps Engineer at Matrix Security Watchdog. In this role, I lead the design, implementation, and optimization of our infrastructure on our Core Platform in Azure. I oversee critical change, ensuring the robustness, security, and scalability of our systems. My responsibilities include mentoring junior engineers, driving continuous improvement in our CI/CD processes, and collaborating with cross-functional teams to deliver a reliable 24x7x365 service. I continue to work extensively with Terraform, Kubernetes, Azure, and Gitlab, with a focus on enhancing automation, security, and efficiency across the platform. 
 
 ## What i did.
 
 #### DevOps Engineer
 ##### Matrix Security Watchdog
 #### NOVEMBER 2020 ⏩ MARCH 2024
-> With my learning of our new products launching growing in my previous role, an opportunity was given to take a DevOps Engineer role in Security Watchdog.  My main role is to be responsible for supporting, implementing, and monitoring the infrastructure on our Core Platform. Working with Terraform, Kubernetes, Azure and Gitlab to deliver a 24x7x365 service with an emphasis on security and frictionless delivery to enable our product teams to launch their applications on the platform. 
+> With my learning of our new products launching growing in my previous role, an opportunity was given to take a DevOps Engineer role in Security Watchdog.  My role is to be responsible for supporting, implementing, and monitoring the infrastructure on our Core Platform. Working with Terraform, Kubernetes, Azure and Gitlab to deliver a 24x7x365 service with an emphasis on security and frictionless delivery to enable our product teams to launch their applications on the platform. 
 
 #### Digital Solutions Consultant
 ##### Security Watchdog
@@ -42,17 +42,15 @@ In my current role as a Senior DevOps Engineer, I lead the efforts to ensure the
 >During my final year at secondary school I proactively sought out a work experience position at Motorola. This placement was invaluable in teaching me the importance of working to strict deadlines, as the products we were testing had to be ready before the planned release date. I found this extremely rewarding and continue to reflect and use the skills I developed during this time.
 
 ## Skills and abilities. 
-* Advanced Technical Proficiency: Highly computer literate with extensive knowledge of Office applications, Office365, Dynamics, PowerBI, and various other productivity and creative tools.
-* Programming Skills: Proficient in JavaScript, VB, HTML5, and CSS3, with a strong foundation in coding for automation, infrastructure as code, and application development.
+* Advanced Technical Proficiency: Extensive knowledge of Azure, Administration, Office365, Dynamics, PowerBI, and various other productivity and creative tools.
+* Programming Skills: Skilled in Python, Terraform and bash. 
 * Cloud Infrastructure Management: Extensive experience working with Azure, including monitoring web apps, managing Linux VMs, and optimizing cloud infrastructure for performance, security, and scalability.
-* DevOps Expertise: Skilled in Terraform, Kubernetes, Gitlab, and CI/CD pipelines, with a focus on automating deployments, maintaining 24x7x365 uptime, and driving continuous improvement in infrastructure and processes.
+* DevOps Expertise: Skilled in Azure, Terraform, Kubernetes, Gitlab and CI/CD pipelines. With a focus on automating deployments, maintaining 24x7x365 uptime, and driving continuous improvement in infrastructure and processes.
 * Collaboration and Leadership: Experienced in working closely with Development teams, Operations, and Directors to achieve business goals within SLA timeframes. Currently leading initiatives as a Senior DevOps Engineer, mentoring junior engineers, and coordinating efforts with cross-functional teams.
-* SQL Proficiency: Competent in writing SQL queries, including basic mathematical and string commands, query optimization, and database modifications to support application performance.
+* SQL Proficiency: Strong foundation in writing SQL queries, including basic mathematical and string commands, query optimization, and database modifications to support application performance.
 * Incident Management and Reporting: Proficient in handling maintenance tasks, responding to infrastructure failures, and reporting complex issues to project teams and developers. Skilled in coordinating the delivery of bug fixes and improvements to mission-critical systems.
 
 ### Socials.
 [👔 LinkedIn](https://www.linkedin.com/in/kieron-harding-32bb23109/)
 
-[✉ Email](mailto:khdd@icloud.com)
-
-[📸 Instagram](https://www.instagram.com/keyringhardhat/)
+[✉ Email](mailto:me@kieron.xyz)

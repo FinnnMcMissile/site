@@ -1,3 +1,5 @@
+## [📄 Download PDF Version](https://github.com/KeyringHardhat/CV/raw/refs/heads/gh-pages/CV%20-%20Kieron%20Harding.pdf)
+
 ## About me.
 
 I’ve been with Security Watchdog since January 2017, where I had initially provided triage and support to internal and external clients, deployed updates to our web apps, and played a key role in the change control process. Over time, my role evolved into managing and optimizing our Core Platform, which supports multiple businesses within Matrix Security Watchdog. My experience spans across Azure, Linux VMs, SQL databases, and a wide array of other tools and services crucial to maintaining a secure, stable, and high-performing infrastructure.

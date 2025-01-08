@@ -1,4 +1,4 @@
-## About me.
+## Kieron Harding - CV
 
 ### [📄 Download PDF Version](https://github.com/KeyringHardhat/CV/raw/refs/heads/gh-pages/CV%20-%20Kieron%20Harding.pdf)
 
